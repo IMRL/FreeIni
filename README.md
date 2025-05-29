@@ -1,9 +1,13 @@
 # Free-Init
+
 This is the code repository for the IEEE RA-L'24 paper "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems, IEEE Robotics and Automation Letters (RA-L),"
 
 [![Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems](Free-Init_cover.png)](https://youtu.be/FbyzvJ-4bHI "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems")
 
+Coming soon. 
+
 # Reference
+
 Zhao, Mingle, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong. "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems." IEEE Robotics and Automation Letters (2024). 
 
 ```
