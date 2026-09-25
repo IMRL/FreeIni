@@ -3,7 +3,7 @@
 # $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$<br>Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems
 
 <a href="https://ieeexplore.ieee.org/document/10740796/"><img src='https://img.shields.io/badge/PDF-IEEE%20Xplore-00629B?logo=ieee&logoColor=white' alt='PDF'></a>
-<a href="https://arxiv.org/"><img src='https://img.shields.io/badge/PDF-arXiv-B31B1B?logo=arxiv&logoColor=white' alt='PDF'></a>
+<a href="https://arxiv.org/abs/2609.29375"><img src='https://img.shields.io/badge/PDF-arXiv-B31B1B?logo=arxiv&logoColor=white' alt='PDF'></a>
 <a href="https://youtu.be/FbyzvJ-4bHI"><img src='https://img.shields.io/badge/Video-YouTube-FF0000?logo=youtube&logoColor=white' alt='Video'></a>
 <a href="https://huggingface.co/datasets/zha0ming1e/Free-Init_Dataset"><img src='https://img.shields.io/badge/Dataset-Hugging%20Face-FFD21E?logo=huggingface&logoColor=white' alt='Dataset'></a>
 <a href="https://drive.google.com/drive/folders/1Zz6WypdraCUC_jD9iLy6nJtJanlxbCz8?usp=sharing"><img src='https://img.shields.io/badge/Dataset-Google%20Drive-4285F4?logo=googledrive&logoColor=white' alt='Dataset'></a>
