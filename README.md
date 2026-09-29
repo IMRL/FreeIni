@@ -39,6 +39,8 @@ $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$ provides accurate in
 - ⚡ **High-Rate**: The Doppler-Inertial Velocimeter (DIV) outputs estimation results over 10 kHz.
 - 🔌 **Plug-and-Play**: Easily integrated with typical LiDAR-inertial systems.
 
+Beyond the initialization of Doppler LiDAR-inertial systems, $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$ pinpoints the crux of general initialization problems: once velocity or differential signal is directly observable, initialization no longer relies on motion compensation, motion excitation, motion assumption, or correspondences. This logic and structural design are sensor-agnostic and carry over to other systems, such as visual-inertial odometry (VIO), whenever a sensor or a learned model provides differential, velocity-aware measurements or predictions.
+
 ## 2. Source Code of $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$
 $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$ is seamlessly integrated into the $\color{#F1261D}{𝗙}\color{#FF9200}{𝗠}\color{#FDDB2A}{𝗖}\color{#4DE42B}{𝗪}\color{#0FF692}{\text{-}}\color{#0BD8F9}{𝗟}\color{#2C22FB}{𝗜}\color{#C32DF3}{𝗢}$ ([**DOI**](https://doi.org/10.1109/LRA.2024.3396636) | [**Project Page**](https://github.com/IMRL/FMCW-LIO)) framework. Please refer to the initialization module of $\color{#F1261D}{𝗙}\color{#FF9200}{𝗠}\color{#FDDB2A}{𝗖}\color{#4DE42B}{𝗪}\color{#0FF692}{\text{-}}\color{#0BD8F9}{𝗟}\color{#2C22FB}{𝗜}\color{#C32DF3}{𝗢}$ ([**DOI**](https://doi.org/10.1109/LRA.2024.3396636) | [**Project Page**](https://github.com/IMRL/FMCW-LIO)) for the source code of $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$.
 
